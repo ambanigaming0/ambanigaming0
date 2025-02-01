@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - 💬 Ask me about coding, development, and tech!
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ambanigaming0e&show_icons=true&theme=radical)
 
 ## 🎮 Join My Discord Server!
 [![Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ncop)
@@ -20,4 +20,4 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ---
 
 🔹 *Profile views:*  
-![Profile views](https://komarev.com/ghpvc/?username=ambanigaming0&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
