@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 📊 **Server Stats:**  
 🌍 **Total Members:** ![Members](https://img.shields.io/discord/1162359083102384189?label=Members&logo=discord&color=7289DA)  
+🌍 **Total Members:** ![Total Members](https://img.shields.io/discord/1162359083102384189?label=Total%20Members&logo=discord&color=7289DA)
 🟢 **Online Members:** `🔄 Loading...`
 
 💬 **Join us for coding discussions, open-source projects, and tech collaboration!**  
