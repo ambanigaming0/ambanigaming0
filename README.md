@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 [![Discord Server](https://img.shields.io/discord/1162359083102384189?label=Join%20Our%20Discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2)](https://discord.gg/ncop)
 
 📊 **Server Stats:**  
-🌍 **Total Members:** ![Members](https://img.shields.io/discord/YOUR_SERVER_ID?label=Members&logo=discord&color=7289DA)  
+🌍 **Total Members:** ![Members](https://img.shields.io/discord/1162359083102384189?label=Members&logo=discord&color=7289DA)  
 🟢 **Online Members:** [View Online Members](https://discord.com/widget?id=1162359083102384189&theme=dark)
 
 
