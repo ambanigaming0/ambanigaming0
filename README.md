@@ -20,4 +20,4 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ---
 
 🔹 *Profile views:*  
-![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=ambanigaming0&style=flat-square)
