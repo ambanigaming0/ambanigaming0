@@ -35,3 +35,4 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 🔹 *Profile views:*  
 ![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
+<iframe src="https://discord.com/widget?id=1162359083102384189&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
