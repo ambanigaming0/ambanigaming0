@@ -35,4 +35,4 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 🔹 *Profile views:*  
-![Profile views](https://komarev.com/ghpvc/?username=ambanigaming0&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
