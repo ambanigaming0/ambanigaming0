@@ -11,6 +11,7 @@
 </div>
 
 
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ambanigaming0-247bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambanigaming0)
@@ -20,9 +21,13 @@
 
 <br>
 
+[![VisionHost](https://img.shields.io/badge/HOSTING-VisionHost-247bff?style=for-the-badge&logo=cloudflare&logoColor=white)](https://visionhost.cloud)
+[![Billing Panel](https://img.shields.io/badge/BILLING-Client%20Panel-8b5cf6?style=for-the-badge&logo=stripe&logoColor=white)](https://billing.visionhost.cloud)
+
+<br>
+
 [![Add Floss](https://img.shields.io/badge/ADD%20BOT-FLOSS-ec49ff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=994111697738551357&permissions=8&scope=applications.commands%20bot)
 [![Add Kalyug](https://img.shields.io/badge/ADD%20BOT-KALYUG-ff354f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1548717176641560736&permissions=8&scope=applications.commands%20bot)
 [![Add TicketHub](https://img.shields.io/badge/ADD%20BOT-TICKETHUB-247bff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1249717213993111655&permissions=8&scope=applications.commands%20bot)
 
 </div>
-
