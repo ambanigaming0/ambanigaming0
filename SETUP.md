@@ -1,10 +1,18 @@
 # Setup and publishing
-1. Replace AKG portrait placeholders with your own image. The PDF workflow uses transparent `id.png` and `right_pointing.png`; embed their PNG bytes as base64 inside relevant SVGs rather than external URLs.
-2. Confirm or remove technology labels in `assets/stack.svg`.
-3. Add an accurate description for https://github.com/ambanigaming0/pass.
-4. Add a permanent Discord invite URL; the server ID alone is not a join link.
-5. Open `preview.html` locally.
-6. Create/open public repository https://github.com/ambanigaming0/ambanigaming0.
-7. Upload `README.md` and the complete `assets/` folder to repository root. `preview.html` is optional.
-8. Commit and visit https://github.com/ambanigaming0 to check desktop/mobile rendering.
-GitHub animation support varies. These starter SVGs include CSS animation and reduced-motion fallbacks, but no cross-browser test is claimed.
+
+All animated SVG images and decorative badges are intentionally non-clickable. They are rendered as images, not links. Do not wrap any `<img>` or badge Markdown in a link (`[![...](image)](URL)`). Keep normal text links in the README only if you want clickable text.
+
+Before publishing:
+1. Replace portrait placeholders with transparent PNGs.
+2. Confirm/remove technology labels and add a real description for `pass`.
+3. Add your permanent Discord invite if desired.
+4. Upload `README.md` and the complete `assets/` folder to the root of public repo `ambanigaming0`.
+5. Commit and inspect desktop/mobile rendering.
+
+
+## Prevent SVG image click-through
+The README wraps each SVG image in `<a href="#">...</a>` so a click stays on the profile page instead of opening the raw SVG. GitHub strips arbitrary CSS/JavaScript, so a truly disabled pointer event is not available in README Markdown. The separate social badges remain clickable.
+
+
+## Prevent image clicks
+In the local `preview.html`, `pointer-events:none` disables clicking the SVG artwork. GitHub sanitizes/controls README rendering, so a README cannot reliably disable the platform's native click-to-open image behaviour. Use the explicit labeled badges below the artwork for navigation. Avoid wrapping SVG `<img>` tags in links if you do not want them to act as links.
