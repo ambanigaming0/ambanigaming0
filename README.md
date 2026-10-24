@@ -12,11 +12,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ambanigaming0-247bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambanigaming0)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itsashishdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsashishdev)
-
 [![Discord Server](https://img.shields.io/badge/Discord-Night%20Club-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ncop)
-
 [![Project](https://img.shields.io/badge/Project-pass-ff354f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambanigaming0/pass)
 
 </div>
