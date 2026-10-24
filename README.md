@@ -8,6 +8,11 @@
 <a href="#"><img src="./assets/connect.svg?v=8" width="100%" alt="Social links and Discord server"></a>
 
 </div>
+<div align="center">
+  <img src="./assets/bots-showcase.svg?v=2"
+       width="100%"
+       alt="FLOSS, KALYUG and TicketHub Discord bots">
+</div>
 
 <div align="center">
 
@@ -17,12 +22,3 @@
 [![Project](https://img.shields.io/badge/Project-pass-ff354f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambanigaming0/pass)
 
 </div>
-
-
-<!-- DISCORD BOTS SHOWCASE -->
-<div align="center">
-  <img src="./assets/bots-showcase.svg?v=2"
-       width="100%"
-       alt="FLOSS, KALYUG and TicketHub Discord bots">
-</div>
-<!-- ABOUT ASHISH -->
