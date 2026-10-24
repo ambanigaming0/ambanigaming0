@@ -1,39 +1,33 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=1" alt="Ashish Kumar Gupta — developer profile" width="100%">
-
-<img src="./assets/about-life.svg?v=1" alt="About Ashish" width="100%">
-
-<img src="./assets/stack.svg?v=1" alt="Technology stack" width="100%">
-
-<img src="./assets/id-dashboard.svg?v=1" alt="Profile ID card" width="100%">
-
-<img src="./assets/connect.svg?v=1" alt="Connect with Ashish" width="100%">
-
-[LinkedIn](https://www.linkedin.com/in/itsashishdev) · [GitHub](https://github.com/ambanigaming0) · [Project repository: pass](https://github.com/ambanigaming0/pass)
+<img src="./assets/hero.svg?v=2" width="100%" alt="Ashish Kumar Gupta — animated developer profile">
+<img src="./assets/about-life.svg?v=2" width="100%" alt="About Ashish and VisionHost">
+<img src="./assets/stack.svg?v=2" width="100%" alt="Technology stack">
+<img src="./assets/projects-community.svg?v=2" width="100%" alt="GitHub project and Night Club Discord community">
+<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Animated identity card">
+<img src="./assets/connect.svg?v=2" width="100%" alt="Social links and Discord server">
 
 </div>
 
 ---
 
 ## About
+I'm **Ashish Kumar Gupta** — a student, developer, and hosting business owner.
 
-I'm **Ashish Kumar Gupta**, a student, developer, and hosting business owner associated with **VisionHost**.
-
-- **Roles:** Founder, CEO, Owner, Developer, Student
-- **Location:** [Add your city, if you want it public]
-- **Current focus:** [Add your current learning or development focus]
-- **Technology stack:** [Confirm the technologies you want to showcase]
+**VisionHost roles:** Founder, CEO, Owner, Developer, Student.
 
 ## Projects
 
-| Project | Description | Repository |
+| Project | Description | Link |
 |---|---|---|
-| `pass` | [Add an accurate description after reviewing the repository] | [View repository](https://github.com/ambanigaming0/pass) |
+| `pass` | [Add an accurate description after reviewing the repository] | [Open repository](https://github.com/ambanigaming0/pass) |
 
-## Connect
+## Connect with me
+- **GitHub:** [@ambanigaming0](https://github.com/ambanigaming0)
+- **LinkedIn:** [itsashishdev](https://www.linkedin.com/in/itsashishdev)
+- **Discord community:** zZ. NIGHT CLUB 🔪 — Socials · Hosting · Chill · Emotes
+- **Server ID:** `1162359083102384189`
+- **Server owner:** `mr_ambanigaming` (`289617999131049984`)
+- **Discord invite:** [Add your permanent invite URL here]
 
-- GitHub: https://github.com/ambanigaming0
-- LinkedIn: https://www.linkedin.com/in/itsashishdev
-
-> Profile note: replace the portrait placeholders in the SVG files with your own transparent PNGs before publishing. The current artwork does not depict your face. Keep all descriptions, metrics, and technology claims accurate.
+> **Before publishing:** Replace portrait placeholders with your own transparent PNGs, remove unconfirmed technology labels, and add a verified project description and permanent Discord invite. SVG card text is not clickable; links above are.
