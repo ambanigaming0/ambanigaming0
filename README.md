@@ -19,5 +19,10 @@
 </div>
 
 
-
+<!-- DISCORD BOTS SHOWCASE -->
+<div align="center">
+  <img src="./assets/bots-showcase.svg?v=2"
+       width="100%"
+       alt="FLOSS, KALYUG and TicketHub Discord bots">
+</div>
 <!-- ABOUT ASHISH -->
