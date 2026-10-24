@@ -21,4 +21,6 @@
 
 
 <!-- ABOUT ASHISH -->
-
+<a href="./index.html">
+  <img src="./assets/hero.svg?v=8" width="100%" alt="Open Developer Website">
+</a>
