@@ -6,12 +6,8 @@
 <a href="#"><img src="./assets/projects-community.svg?v=7" width="100%" alt="GitHub project and Night Club Discord community"></a>
 <a href="#"><img src="./assets/id-dashboard.svg?v=9" width="100%" alt="Ashish identity card"></a>
 <a href="#"><img src="./assets/connect.svg?v=8" width="100%" alt="Social links and Discord server"></a>
+<a href="#"><img src="./assets/bots-showcase.svg?v=8" width="100%" alt="SFLOSS, KALYUG and TicketHub Discord bots"></a>
 
-</div>
-<div align="center">
-  <img src="./assets/bots-showcase.svg?v=2"
-       width="100%"
-       alt="FLOSS, KALYUG and TicketHub Discord bots">
 </div>
 
 <div align="center">
