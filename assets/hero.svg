@@ -30,7 +30,7 @@ text{font-family:Inter,Arial,sans-serif;fill:#f4f7ff} .muted{fill:#a0aec6} .blue
     </clipPath>
   </defs>
 
-  <image href="./id.png"
+  <image href="./assets/id.png"
          x="801" y="99"
          width="92" height="92"
          preserveAspectRatio="xMidYMid meet"
@@ -39,7 +39,7 @@ text{font-family:Inter,Arial,sans-serif;fill:#f4f7ff} .muted{fill:#a0aec6} .blue
   <text x="847" y="229"
         text-anchor="middle"
         font-size="13"
-        font-weight="700">ASHISH KUMAR</text>
+        font-weight="700">ASHISH KUMAR GUPTA</text>
 
   <text x="847" y="250"
         text-anchor="middle"
