@@ -10,6 +10,7 @@
 
 </div>
 
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ambanigaming0-247bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambanigaming0)
@@ -17,4 +18,11 @@
 [![Discord Server](https://img.shields.io/badge/Discord-Night%20Club-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ncop)
 [![Project](https://img.shields.io/badge/Project-pass-ff354f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambanigaming0/pass)
 
+<br>
+
+[![Add Floss](https://img.shields.io/badge/ADD%20BOT-FLOSS-ec49ff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=994111697738551357&permissions=8&scope=applications.commands%20bot)
+[![Add Kalyug](https://img.shields.io/badge/ADD%20BOT-KALYUG-ff354f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1548717176641560736&permissions=8&scope=applications.commands%20bot)
+[![Add TicketHub](https://img.shields.io/badge/ADD%20BOT-TICKETHUB-247bff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1249717213993111655&permissions=8&scope=applications.commands%20bot)
+
 </div>
+
