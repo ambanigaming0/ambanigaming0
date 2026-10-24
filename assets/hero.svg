@@ -30,7 +30,7 @@ text{font-family:Inter,Arial,sans-serif;fill:#f4f7ff} .muted{fill:#a0aec6} .blue
     </clipPath>
   </defs>
 
-  <image href="./assets/id.png"
+  <image href="./id.png"
          x="801" y="99"
          width="92" height="92"
          preserveAspectRatio="xMidYMid meet"
