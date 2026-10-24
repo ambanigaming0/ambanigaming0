@@ -18,36 +18,75 @@
 
 </div>
 
----
 
-## About
-I'm **Ashish Kumar Gupta** — a student, developer, and hosting business owner.
+<div align="center">
 
-**VisionHost roles:** Founder, CEO, Owner, Developer, Student.
+  <h2>⚡ About Ashish</h2>
+  <p>
+    <strong>Ashish Kumar Gupta</strong><br>
+    Student · Developer · Hosting Business Owner
+  </p>
 
-## Projects
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🔵 VisionHost</h3>
+        <strong>Founder · CEO · Owner · Developer</strong>
+        <p>Hosting · Infrastructure · Development</p>
+      </td>
+      <td align="center">
+        <h3>💻 Developer</h3>
+        <a href="https://github.com/ambanigaming0">GitHub Profile</a>
+        <br><br>
+        <a href="https://www.linkedin.com/in/itsashishdev">LinkedIn Profile</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>🟣 zZ. NIGHT CLUB 🔪</h3>
+        Socials · Hosting · Chill · Emotes
+        <br><br>
+        <a href="https://discord.gg/ncop">
+          <img src="https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Night Club Discord">
+        </a>
+        <p><strong>Owner:</strong> mr_ambanigaming</p>
+        <p><strong>Server ID:</strong> 1162359083102384189</p>
+        <p><strong>Owner ID:</strong> 289617999131049984</p>
+      </td>
+    </tr>
+  </table>
 
-| Project | Description | Link |
-|---|---|---|
-| `pass` | [Add an accurate description after reviewing the repository] | [Open repository](https://github.com/ambanigaming0/pass) |
+</div>
 
-## Night Club Discord
+<hr>
 
-**Server:** zZ. NIGHT CLUB 🔪 — Socials · Hosting · Chill · Emotes  
-**Server ID:** `1162359083102384189`  
-**Owner:** `mr_ambanigaming`  
-**Owner ID:** `289617999131049984`
+<h2 align="center">🚀 Projects</h2>
 
-**Join the server:** [Add your permanent Discord invite URL here]
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td><code>pass</code></td>
+    <td>Project description to be confirmed</td>
+    <td><a href="https://github.com/ambanigaming0/pass">View Project ↗</a></td>
+  </tr>
+</table>
 
-## Clickable links and animation
+<h2 align="center">🌐 Connect With Me</h2>
 
-The SVG panels are wrapped in a harmless `#` link so clicking them does not navigate to the raw SVG file. GitHub does not offer a supported way to make an image completely non-clickable in Markdown; the wrapper prevents opening the asset directly. GitHub displays README SVGs as images. For security, links embedded inside an SVG image are not reliably clickable as separate hotspots. Therefore, the animated social panel stays visual, and the clickable badges above sit immediately below it. Each badge opens its matching profile/project.
+<div align="center">
 
-**GIF files:** The latest attachment available in this chat appears to be a screenshot, not the actual server/owner GIF files. Upload the GIFs as `.gif` attachments so they can be included in the relevant panels. Do not convert a screenshot into a fake GIF.
+  <a href="https://github.com/ambanigaming0">
+    <img src="https://img.shields.io/badge/GitHub-ambanigaming0-247bff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/itsashishdev">
+    <img src="https://img.shields.io/badge/LinkedIn-itsashishdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.gg/ncop">
+    <img src="https://img.shields.io/badge/Discord-Night_Club-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 
-> Before publishing: replace portrait placeholders with your transparent PNGs, remove unconfirmed technology labels, add a verified project description and a permanent Discord invite.
-
-
-### About opening SVG images
-GitHub controls how README images open when clicked. There is no supported README setting that reliably disables the host's native image-opening behaviour. The links you should use are the labeled badges above; clicking the artwork itself may open the SVG depending on the client.
+</div>
