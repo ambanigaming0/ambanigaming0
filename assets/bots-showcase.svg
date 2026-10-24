@@ -20,7 +20,7 @@
 </defs>
 <rect width="1200" height="1160" rx="28" fill="url(#bg)"/><rect width="1200" height="1160" rx="28" fill="url(#grid)"/>
 <rect x="1.5" y="1.5" width="1197" height="1157" rx="27" fill="none" stroke="#263e68" stroke-width="2"/>
-<text x="48" y="47" class="mono label">ASHISH / PROJECT SHOWCASE</text>
+<text x="48" y="47" class="mono label">06 / PROJECT SHOWCASE</text>
 <text x="48" y="88" class="sans white" font-size="36" font-weight="850">DISCORD <tspan fill="#78aaff">BOTS</tspan><tspan fill="#a78bfa"> &amp; SYSTEMS</tspan></text>
 <text x="1150" y="50" text-anchor="end" class="mono tiny" fill="#8295bb">03 PROJECTS</text>
 <path d="M32 112H1168" stroke="url(#neon)" stroke-width="5"/>
@@ -28,7 +28,7 @@
 <!-- FLOSS -->
 <g>
 <rect x="32" y="136" width="1136" height="300" rx="23" fill="#0b1428" stroke="#284b83" stroke-width="2"/><rect x="32" y="136" width="1136" height="300" rx="23" fill="url(#blue)"/><rect x="32" y="136" width="7" height="300" rx="3" fill="#247bff"/>
-<text x="66" y="174" class="mono label">01 / MUSIC STREAMING</text><text x="66" y="221" class="sans name">FLOSS</text>
+<text x="66" y="174" class="mono label">I / MUSIC STREAMING</text><text x="66" y="221" class="sans name">FLOSS</text>
 <text x="66" y="257" class="sans desc">Popular high-fidelity Discord music bot</text>
 <text x="66" y="286" class="sans sub">Serving millions of listeners with a smooth, scalable audio experience.</text>
 <text x="66" y="313" class="sans sub">Engineered for reliable playback and high concurrency.</text>
@@ -44,7 +44,7 @@
 <!-- KALYUG -->
 <g>
 <rect x="32" y="456" width="1136" height="300" rx="23" fill="#0e1025" stroke="#6240a2" stroke-width="2"/><rect x="32" y="456" width="1136" height="300" rx="23" fill="url(#purple)"/><rect x="32" y="456" width="7" height="300" rx="3" fill="#9b5cff"/>
-<text x="66" y="494" class="mono label" fill="#c2a1ff">02 / SECURITY &amp; CUSTOMER SUPPORT</text><text x="66" y="541" class="sans name">KALYUG</text>
+<text x="66" y="494" class="mono label" fill="#c2a1ff">II / SECURITY &amp; CUSTOMER SUPPORT</text><text x="66" y="541" class="sans name">KALYUG</text>
 <text x="66" y="577" class="sans desc">Discord security &amp; customer support bot</text>
 <text x="66" y="606" class="sans sub">Built for communities, game servers, and hosting providers.</text>
 <text x="66" y="633" class="sans sub">Organized ticket workflows with secure permission handling.</text>
@@ -60,7 +60,7 @@
 <!-- TICKETHUB -->
 <g>
 <rect x="32" y="776" width="1136" height="300" rx="23" fill="#0d1428" stroke="#7d334b" stroke-width="2"/><rect x="32" y="776" width="1136" height="300" rx="23" fill="url(#red)"/><rect x="32" y="776" width="7" height="300" rx="3" fill="#ff354f"/>
-<text x="66" y="814" class="mono label" fill="#ff8290">03 / ADVANCED TICKETING</text><text x="66" y="861" class="sans name">TicketHub</text>
+<text x="66" y="814" class="mono label" fill="#ff8290">III / ADVANCED TICKETING</text><text x="66" y="861" class="sans name">TicketHub</text>
 <text x="66" y="897" class="sans desc">Multi-panel support in one powerful bot</text>
 <text x="66" y="926" class="sans sub">Manage tickets, streamline support, and organize staff workflows.</text>
 <text x="66" y="953" class="sans sub">Packed with features for an efficient community support system.</text>
