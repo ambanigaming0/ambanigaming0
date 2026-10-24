@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#"><img src="./assets/hero.svg?v=3" width="100%" alt="Ashish Kumar Gupta — animated developer profile"></a>
+<a href="#"><img src="./assets/hero.svg?v=8" width="100%" alt="Ashish Kumar Gupta — animated developer profile"></a>
 <a href="#"><img src="./assets/about-life.svg?v=3" width="100%" alt="About Ashish and VisionHost"></a>
 <a href="#"><img src="./assets/stack.svg?v=3" width="100%" alt="Technology stack"></a>
 <a href="#"><img src="./assets/projects-community.svg?v=3" width="100%" alt="GitHub project and Night Club Discord community"></a>
